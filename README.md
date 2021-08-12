@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/0bvios/portfolio/blob/main/images/Sentosa%20Background.jpg)
 
 <!-- Add your details -->
 
